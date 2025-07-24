@@ -112,8 +112,7 @@ flight-delay-prediction/
 
 > **📧 [Abhijeet Roy]**  
 > 💼 Aspiring Data Scientist | Python Enthusiast  
-> 🌐 [You]  
-> 🐙 GitHub: [Your GitHub]
+> 🌐 [https://www.linkedin.com/in/abhijeetroy9/]  
 
 ---
 
