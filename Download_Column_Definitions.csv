@@ -1,0 +1,22 @@
+Column Name,Column Definition
+year,YYYY format
+month,MM format (1-12)
+carrier,Code assigned by assigned by US DOT to identify a unique airline carrier.  
+carrier_name,"Unique airline (carrier) is defined as one holding and reporting under the same DOT certificate regardless of its Code, Name, or holding company/corporation."
+airport,A three character alpha-numeric code issued by the U.S. Department of Transportation which is the official designation of the airport.
+airport_name,a place from which aircraft operate that usually has paved runways and maintenance facilities and often serves as a terminal
+arr_flights,Arrival Flights
+arr_del15,"Arrival Delay Indicator, 15 Minutes or More Arrival delay equals the difference of the actual arrival time minus the scheduled arrival time. A flight is considered on-time when it arrives less than 15 minutes after its published arrival time."
+carrier_ct,Carrier Count for airline cause of delay
+weather_ct,Weather Count for airline cause of delay
+nas_ct,NAS (National Air System) Count for airline cause of delay
+security_ct,Security County for airline cause of delay
+late_aircraft_ct,Late Aircraft Delay Count for airline cause of delay
+arr_cancelled,flight cancelled
+arr_diverted,flight diverted
+arr_delay,Difference in minutes between scheduled and actual arrival time. Early arrivals show negative numbers.
+carrier_delay,"Carrier Delay, in Minutes"
+weather_delay,"Weather Delay, in Minutes"
+nas_delay,"National Air System Delay, in Minutes"
+security_delay,"Security Delay, in Minutes"
+late_aircraft_delay,"Late Aircraft Delay, in Minutes"
