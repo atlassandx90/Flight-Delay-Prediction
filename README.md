@@ -110,7 +110,8 @@ flight-delay-prediction/
 
 ## 🙌 Author & Contact
 
-> **📧 [Abhijeet Roy]**  
+> 🧑‍💼**[Abhijeet Roy]**
+> 📧 **[aroy96996@gmail.com]** 
 > 💼 Aspiring Data Scientist | Python Enthusiast  
 > 🌐 [https://www.linkedin.com/in/abhijeetroy9/]  
 
